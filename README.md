@@ -8,12 +8,10 @@
                                                   
 ---
 
-
+## 🚀 About Me
 <p align="right">
   <img src="assets/dashboard.gif" width="500">
 </p>
-
-## 🚀 About Me
 - 🎓 Data Science Student  
 - 🔍 Interested in **Machine Learning, Data Analysis & AI**
 - 📊 Love working on **real-world datasets**
