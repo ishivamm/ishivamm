@@ -68,7 +68,13 @@ Aspiring Data Science | Machine Learning | Deep Learning | Artificial Intelligen
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
+## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishivamm&show_icons=true&theme=tokyonight" />
+</p>
+
+---
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/shivam-maurya-2780a8288  
 - 📧 Email: shivammaurya1611@gmail.com  
