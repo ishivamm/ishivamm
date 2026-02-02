@@ -7,9 +7,9 @@
 <h3 align="center">Aspiring Data Science | Machine Learning | Deep Learning | Artificial Intelligence</h3>
                                                   
 ---
-## 📊 Dashboard Preview
 
-<p align="center">
+
+<p align="right">
   <img src="assets/dashboard.gif" width="500">
 </p>
 
