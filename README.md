@@ -11,7 +11,9 @@ Aspiring Data Science | Machine Learning | Deep Learning | Artificial Intelligen
 
 ## 🚀 About Me
 
-<img align="right" src="assets/dashboard.gif" width="250" />
+<p align="center">
+  <img src="assets/dashboard.gif" width="300" />
+</p>
 
 - 🎓 Data Science Student  
 - 🔍 Interested in Machine Learning, Data Analysis & AI  
@@ -19,7 +21,6 @@ Aspiring Data Science | Machine Learning | Deep Learning | Artificial Intelligen
 - 🌱 Currently learning Advanced ML, DL & SQL  
 - 💼 Actively looking for Internship / Entry-level Data Scientist roles  
 
-<br clear="right"/>
 
 
 
