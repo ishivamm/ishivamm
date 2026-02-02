@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Maurya</h1>
 <h3 align="center">Aspiring Data Scientist | Machine Learning | Deep Learning | Artificial Intelligence</h3>
-                                                                                            ![WhatsAppVideo2026-02-02at6 09 30PM-ezgif com-optimize](https://github.com/user-attachments/assets/4b531af5-8cca-458b-9d06-07dbb66c905f)
-   
-
-## 🧠 Deep Learning & AI
-- CNN, ANN, RNN
-- Computer Vision
-- NLP
-- TensorFlow & Keras
-
+                                                  
 ---
 
 ## 🚀 About Me
@@ -55,11 +47,6 @@
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-purple?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishivamm&show_icons=true&theme=tokyonight)
 
 ---
 
