@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-<img align="right" src="assets/dashboard.gif" width="350"/>>
+<img align="right" src="assets/dashboard.gif" width="350"/>
 
 - 🎓 Data Science Student  
 - 🔍 Interested in **Machine Learning, Data Analysis & AI**
