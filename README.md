@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner.png" alt="banner" />
+  <img src="assets/banner.png" alt="Banner">
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Shivam Maurya</h1>
 <h3 align="center">Aspiring Data Science | Machine Learning | Deep Learning | Artificial Intelligence</h3>
