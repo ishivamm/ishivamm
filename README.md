@@ -12,8 +12,9 @@ Aspiring Data Science | Machine Learning | Deep Learning | Artificial Intelligen
 ## 🚀 About Me
 
 <p align="center">
-  <img src="assets/dashboard.gif" width="300" />
+  <img src="assets/dashboard.gif" width="380" />
 </p>
+
 
 - 🎓 Data Science Student  
 - 🔍 Interested in Machine Learning, Data Analysis & AI  
