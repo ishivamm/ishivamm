@@ -9,13 +9,15 @@
 ---
 
 ## 🚀 About Me
-<img align="right" src="assets/dashboard.gif" width="350"/>
+
+<img align="right" src="assets/dashboard.gif" width="280" />
 
 - 🎓 Data Science Student  
-- 🔍 Interested in **Machine Learning, Data Analysis & AI**
-- 📊 Love working on **real-world datasets**
-- 🌱 Currently learning **Advanced ML,DL & SQL**
-- 💼 Actively looking for **Internship / Entry-level Data Scientist roles**
+- 🔍 Interested in Machine Learning, Data Analysis & AI  
+- 📊 Love working on real-world datasets  
+- 🌱 Currently learning Advanced ML, DL & SQL  
+- 💼 Actively looking for Internship / Entry-level Data Scientist roles  
+
 
 ---
 
