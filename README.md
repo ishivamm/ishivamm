@@ -8,6 +8,7 @@ Aspiring Data Science | Machine Learning | Deep Learning | Artificial Intelligen
 </h3>
 
 ---
+<img src="https://komarev.com/ghpvc/?username=ishivamm&style=flat" />
 
 ## 🚀 About Me
 
@@ -21,9 +22,6 @@ Aspiring Data Science | Machine Learning | Deep Learning | Artificial Intelligen
 - 📊 Love working on real-world datasets  
 - 🌱 Currently learning Advanced ML, DL & SQL  
 - 💼 Actively looking for Internship / Entry-level Data Scientist roles  
-
-
-
 
 ---
 
